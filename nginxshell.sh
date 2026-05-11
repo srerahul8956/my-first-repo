@@ -1,3 +1,6 @@
-this is nginx shell file in dev branch
+#!/bin/bash
 
-adding another line
+
+echo "shellscript to install nginx"
+
+
